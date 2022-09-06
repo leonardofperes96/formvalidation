@@ -103,3 +103,8 @@ color: #2ecc71;
   visibility: visible;
   color: tomato;
   }
+
+.form-control.error small {
+  visibility: visible;
+  color: tomato;
+}
